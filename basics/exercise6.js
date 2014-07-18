@@ -1,4 +1,4 @@
-var fsmodule = require('./fsmodule.js'),
+var fsmodule = require('./node_modules/fsmodule.js'),
     dir = process.argv[2],
     ext = process.argv[3];
 
